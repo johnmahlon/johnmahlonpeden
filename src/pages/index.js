@@ -1,15 +1,15 @@
-import React from "react"
-import instagram from "../images/instagram.png"
-import SocialIcon from "../components/social-icon"
+import React from "react";
+import instagram from "../images/instagram.png";
+import SocialIcon from "../components/social-icon";
+import Github from "../images/github.png";
+import Instagram from "../images/instagram.png";
 
-const UnderConstruction = () => (
+const Home = () => (
   <div>
     <h1>John Mahlon Peden</h1>
-    <div className="uc">
-      <h2>Under Construction</h2>
-    </div>
-    <SocialIcon src={instagram} url="https://www.instagram.com/johnmahlon/"/> 
+    <SocialIcon url="https://github.com/johnmahlon" src={ Github } />
+    <SocialIcon url="https://instagram.com/johnmahlon" src ={ Instagram } />
   </div>
-)
+);
 
-export default UnderConstruction
+export default Home

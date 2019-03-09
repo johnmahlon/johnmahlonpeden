@@ -3,8 +3,6 @@ import socialMediaIconStyles from "./social-icon.module.css"
 
 export default (props) => (
     <div className={socialMediaIconStyles.socialMediaIcon}>
-        <a href={props.url}>
-            <img src={props.src} alt=""/>
-        </a>
+        <a target="_blank" rel="noopener noreferror" href={props.url}><img src={props.src} alt=""/></a>
     </div>
 )
