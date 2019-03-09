@@ -7,6 +7,7 @@ https://www.johnmahlonpeden.com
 
 ## Development
 [![Netlify Status](https://api.netlify.com/api/v1/badges/a566cfc9-0107-44f3-baa7-d552bf108c5c/deploy-status)](https://app.netlify.com/sites/angry-nobel-c6c126/deploys)
+
 https://development.johnmahlonpeden.com
 
 Built using Gatsby.
