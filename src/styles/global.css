@@ -3,4 +3,12 @@ html {
     text-align: center;
 }
 
+hr {
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+
+}
+
 

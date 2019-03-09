@@ -9,6 +9,8 @@ const Home = () => (
   <div>
     <ProfileImage src={Me}/>
     <h1>John Mahlon Peden</h1>
+    <p></p>
+    <hr/>
     <SocialIcon url="https://github.com/johnmahlon" src={ Github }/>
     <SocialIcon url="https://instagram.com/johnmahlon" src ={ Instagram }/>
   </div>
