@@ -1,6 +1,11 @@
 .socialMediaIcon img {
-    min-width: 40px;
-    min-height: 40px;
+    min-width: 35px;
+    min-height: 35px;
     width:4%;
     height: 4%;
+}
+
+.socialMediaIcon {
+    display: inline;
+    padding: 1em;
 }
