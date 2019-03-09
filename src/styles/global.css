@@ -6,7 +6,12 @@ html {
     text-align: center;
 }
 
-h2 {
+.uc h2 {
+    margin: 0 auto;
     color: lightgray;
-    font-weight: 300
+    font-weight: 300;
+    border-style: solid;
+    border-color: lightgray;
+    border-width: 3px;
+    width: 20%;
 }

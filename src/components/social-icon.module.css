@@ -1,5 +1,6 @@
 .socialMediaIcon img {
     width:4%;
     height: 4%;
-    filter: brightness(1000%)
+    filter: brightness(1000%);
+    padding-top: 1em;
 }
