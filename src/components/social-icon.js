@@ -1,5 +1,5 @@
-import React from "react"
-import socialMediaIconStyles from "./social-icon.module.css"
+import React from "react";
+import socialMediaIconStyles from "./social-icon.module.css";
 
 export default (props) => (
     <div className={socialMediaIconStyles.socialMediaIcon}>
