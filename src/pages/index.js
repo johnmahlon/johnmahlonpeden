@@ -9,7 +9,7 @@ const Home = () => (
   <div>
     <ProfileImage src={Me}/>
     <h1>John Mahlon Peden</h1>
-    <p></p>
+    <h4>Mobile developer for MTSU, hobbyist photographer, and musician.</h4>
     <hr/>
     <SocialIcon url="https://github.com/johnmahlon" src={ Github }/>
     <SocialIcon url="https://instagram.com/johnmahlon" src ={ Instagram }/>
